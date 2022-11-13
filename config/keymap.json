@@ -37,7 +37,7 @@
     ], [
        "&trans", "&trans",     "&trans", "&trans",     "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans",      "&trans", "&trans",     "&trans",
        "&trans", "&trans",     "&trans", "&trans", "&kp LS(F6)", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&kp LS(F11)", "&trans",     "&trans",
-       "&trans", "&trans", "&kp LG(F6)", "&trans",    "&kp F11", "&trans",           "&trans", "&trans", "&trans",                          "&trans", "&trans",     "&trans",     "&trans",      "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&kp LG(F6)", "&trans",    "&kp LG(F11)", "&trans",           "&trans", "&trans", "&trans",                          "&trans", "&trans",     "&trans",     "&trans",      "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans",     "&trans", "&trans",     "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans",      "&trans", "&trans",     "&trans",     "&trans", "&kp LS(F10)", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans",     "&trans", "&trans",     "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans",      "&kp F8", "&kp F7", "&kp LS(F8)", "&kp LA(F9)",      "&trans"
     ]
