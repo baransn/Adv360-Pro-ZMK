@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",        "&none",           "&none",                            "&none",       "&none",        "&none",        "&none",           "&none",        "&none",        "&none",                  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",   "&bl BL_INC",   "&bl BL_DEC", "&rgb_ug RGB_TOG",                       "&bl BL_TOG",       "&none",        "&none",   "&bl BL_TOG", "&rgb_ug RGB_TOG",   "&bl BL_INC",   "&bl BL_DEC",                  "&none",  "&none",  "&none"
     ], [
-       "&trans", "&trans",     "&trans", "&trans",      "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans",      "&trans", "&trans",     "&trans",
-       "&trans", "&trans",     "&trans", "&trans",  "&kp LS(F6)", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&kp LS(F11)", "&trans",     "&trans",
-       "&trans", "&trans", "&kp LG(F6)", "&trans", "&kp LG(F11)", "&trans",           "&trans", "&trans", "&trans",                          "&trans", "&trans",     "&trans",     "&trans",      "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans",     "&trans", "&trans",      "&trans", "&kp LG(F8)",           "&trans", "&trans", "&trans", "&trans", "&trans",      "&trans", "&trans",     "&trans",     "&trans", "&kp LS(F10)", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans",     "&trans", "&trans",      "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans",      "&kp F8", "&kp F7", "&kp LS(F8)", "&kp LA(F9)",      "&trans"
+       "&trans", "&trans",     "&trans", "&trans",      "&trans",     "&trans",                        "&trans",                 "&trans", "&trans", "&trans", "&trans",      "&trans", "&trans",                 "&trans",
+       "&trans", "&trans",     "&trans", "&trans",  "&kp LS(F6)",     "&trans",            "&macro_go_left_tab", "&macro_go_left_desktop", "&trans", "&trans", "&trans", "&kp LS(F11)", "&trans",                 "&trans",
+       "&trans", "&trans", "&kp LG(F6)", "&trans", "&kp LG(F11)",     "&trans",           "&macro_go_right_tab",                 "&trans", "&trans",                          "&trans", "&trans", "&macro_go_right_deskto",     "&trans",      "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans",     "&trans", "&trans",      "&trans", "&kp LG(F8)",                        "&trans",                 "&trans", "&trans", "&trans", "&trans",      "&trans", "&trans",                 "&trans",     "&trans", "&kp LS(F10)", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans",     "&trans", "&trans",      "&trans",     "&trans",                        "&trans",                 "&trans", "&trans", "&trans", "&trans",      "&kp F8", "&kp F7",             "&kp LS(F8)", "&kp LA(F9)",      "&trans"
     ]
   ]
 }
