@@ -40,7 +40,7 @@ label = "macro_go_back";
 #binding-cells = <0>;
 bindings = <&kp LEFT_COMMAND>, <&kp LEFT_BRACKET>;
 };
-macro_go_back: macro_go_forward{
+macro_go_forward: macro_go_forward{
 compatible = "zmk,behavior-macro";
 label = "macro_go_back";
 #binding-cells = <0>;
