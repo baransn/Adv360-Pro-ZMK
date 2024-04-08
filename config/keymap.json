@@ -38,7 +38,7 @@
        "&trans", "&trans",     "&trans", "&trans",               "&trans",     "&trans",                        "&trans",                                                                          "&trans", "&trans", "&trans",     "&trans",     "&trans",     "&trans", "&trans",
        "&trans", "&trans",     "&trans", "&trans",           "&kp LS(F6)",     "&trans",            "&macro_go_left_tab",                                                              "&kp LC(LEFT_ARROW)", "&trans", "&trans",     "&trans",     "&trans",     "&trans", "&trans",
        "&trans", "&trans", "&kp LG(F6)", "&trans",          "&kp LG(F11)",     "&trans",           "&macro_go_right_tab", "&trans", "&trans",                     "&trans", "&trans", "&kp LC(RIGHT_ARROW)", "&trans", "&trans",     "&trans",     "&trans",     "&trans", "&trans",
-       "&trans", "&trans",     "&trans", "&trans", "&macro_paste_special", "&kp LG(F8)",                                            "&trans",                     "&trans",                                  "&trans", "&kp F5", "&kp LA(F5)", "&kp LG(F2)",     "&kp F8", "&trans",
+       "&trans", "&trans",     "&trans", "&trans", "&macro_paste_special", "&kp LG(F8)",                                            "&trans",                     "&trans",                                  "&trans", "&kp F5", "&kp LA(F5)", "&kp LG(F2)", "&kp LG(F8)", "&trans",
        "&trans", "&trans",     "&trans", "&trans",               "&trans",                                      "&trans", "&trans", "&trans",                     "&trans", "&trans",              "&trans",           "&kp F8",     "&kp F7", "&kp LS(F8)", "&kp LA(F9)", "&trans"
     ]
   ]
